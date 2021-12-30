@@ -1,2 +1,2 @@
 # Decoder
-A vary simple decoder message project
+A very simple decoder message project
